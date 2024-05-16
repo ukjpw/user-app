@@ -1,6 +1,6 @@
 ## About This Application
 
-This application was created completed by Ulrik Wildy to demonstrate his frontend skills.  
+This application calls an API to manage users.
 
 It allows the end-user to:
    - List existing users
