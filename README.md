@@ -22,6 +22,7 @@ It allows the end-user to:
 
 #### Create Laravel Application
   1) composer create-project laravel/laravel app-name
+  2) cd app-name
    
 #### Install PHP Extensions using apt
   1) sudo apt update
