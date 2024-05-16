@@ -20,6 +20,9 @@ It allows the end-user to:
 
 ### How to Deploy Application (Linux Server or WSL) - Commands
 
+#### Create Laravel Application
+  1) composer create-project laravel/laravel app-name
+   
 #### Install PHP Extensions using apt
   1) sudo apt update
   2) sudo apt upgrade
